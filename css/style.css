@@ -49,3 +49,16 @@
     height: 150px;
     width: 100%;
 }
+.f-bg{
+    background-color: rgb(28 28 28);
+    color: #fff;
+}
+.text-info-x{
+    color: rgb(19 204 253);
+}
+i{
+    cursor: pointer;
+}
+.text-justify{
+    text-align: justify;
+}
